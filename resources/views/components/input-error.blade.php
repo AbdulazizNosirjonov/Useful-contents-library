@@ -1,4 +1,3 @@
-
 @props(['messages'])
 
 @if ($messages)
